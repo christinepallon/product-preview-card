@@ -28,14 +28,14 @@ Users should be able to:
 ### Screenshots
 
 <p align="center">
-  <img src="ProductPreviewCard/resources/desktopss.png" alt="project screenshot desktop" title="Desktop       Screenshot">
-  <img src="ProductPreviewCard/resources/mobiless.png" alt="project screenshot mobile" title="Mobile            Screenshot">
+  <img src="/resources/desktopss.png" alt="project screenshot desktop" title="Desktop       Screenshot">
+  <img src="/resources/mobiless.png" alt="project screenshot mobile" title="Mobile            Screenshot">
 </p>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-GF1uWwcHCz)
+- Live Site URL: [Hosted on Vercel](https://product-preview-card-rust.vercel.app/)
 
 ## My process
 
